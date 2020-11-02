@@ -1,0 +1,52 @@
+﻿@model ProductInfo.Data.Entities.Product
+<div class="container">
+    <form asp-action="CreateOrUpdate" asp-controller="Product" method="post" class="form-horizontal" autocomplete="off">
+        <input asp-for="Id" type="hidden" />
+        <div class="form-group">
+            <label asp-for="ProductName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Quantity" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Quantity" type="number" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">Price</label>
+            <div class="col-md-10">
+                <input asp-for="Price.Price1" type="number" class="form-control" />
+                <span asp-validation-for="Price.Price1" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price.FromDate" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Price.FromDate" type="date" class="form-control" />
+                <span asp-validation-for="Price.FromDate" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price.ToDate" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Price.ToDate" type="date" class="form-control" />
+                <span asp-validation-for="Price.ToDate" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group" style="float:right">
+            <a href="/Product/Index" class="btn btn-outline-info">Cancel</a>
+            <input type="submit" class="btn btn-info" value="Submit" />
+        </div>
+    </form>
+</div>

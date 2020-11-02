@@ -1,0 +1,9 @@
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\bin\Debug\netcoreapp3.1\ProductInfo.Utils.deps.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\bin\Debug\netcoreapp3.1\ProductInfo.Utils.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\bin\Debug\netcoreapp3.1\ProductInfo.Utils.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.csprojAssemblyReference.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.AssemblyInfoInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.AssemblyInfo.cs
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Utils\obj\Debug\netcoreapp3.1\ProductInfo.Utils.pdb

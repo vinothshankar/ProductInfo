@@ -1,0 +1,17 @@
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Business.deps.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Business.runtimeconfig.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Business.runtimeconfig.dev.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Business.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Business.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Data.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Utils.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Data.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\bin\Debug\netcoreapp3.1\ProductInfo.Utils.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.csprojAssemblyReference.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.AssemblyInfoInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.AssemblyInfo.cs
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.csproj.CopyComplete
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Business\obj\Debug\netcoreapp3.1\ProductInfo.Business.genruntimeconfig.cache

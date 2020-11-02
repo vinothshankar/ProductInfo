@@ -1,0 +1,31 @@
+﻿@model List<ProductInfo.Data.Entities.Product>
+
+
+<div class="container">
+    <h2>Product Info</h2>
+    <a href="/Product/GetProductInfo?id=0" class="btn btn-primary">Add Product</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price (Per Qty)</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>@product.Quantity</td>
+                    <td>@product.Price?.Price1</td>
+                    <td>
+                        <a href="/Product/GetProductInfo?id=@product.Id" class="btn btn-outline-info">Edit</a>
+                        <a href="/Product/DeleteProduct?id=@product.Id" class="btn btn-outline-info">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

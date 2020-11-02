@@ -1,0 +1,15 @@
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Data.deps.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Data.runtimeconfig.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Data.runtimeconfig.dev.json
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Data.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Data.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Utils.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\bin\Debug\netcoreapp3.1\ProductInfo.Utils.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.csprojAssemblyReference.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.AssemblyInfoInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.AssemblyInfo.cs
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.csproj.CopyComplete
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.dll
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.pdb
+C:\Users\Vinoth Shankar\Downloads\Producr\ProductInfo\ProductInfo.Data\obj\Debug\netcoreapp3.1\ProductInfo.Data.genruntimeconfig.cache
